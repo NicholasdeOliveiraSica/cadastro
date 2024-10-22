@@ -1,7 +1,8 @@
 {
   "name": "cadastro",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
+  "homepage":"https://nicholasdeoliveirasica.github.io/cadastro/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,6 +16,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
+    "sequelize-cli": "^6.6.2",
     "styled-components": "^6.1.13"
   },
   "devDependencies": {
@@ -27,6 +29,7 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.12",
     "globals": "^15.9.0",
+    "sequelize-cli": "^6.6.2",
     "vite": "^5.4.8"
   }
 }
